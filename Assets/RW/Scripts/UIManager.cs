@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class NewBehaviourScript : MonoBehaviour
+public class UIManager : MonoBehaviour
 {
     public void StartGame()
     {
